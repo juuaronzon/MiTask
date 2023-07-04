@@ -1,0 +1,15 @@
+C:\Users\Administrador\Source\Repos\MiTask\MiTask\bin\Debug\net6.0\MiTask.exe
+C:\Users\Administrador\Source\Repos\MiTask\MiTask\bin\Debug\net6.0\MiTask.deps.json
+C:\Users\Administrador\Source\Repos\MiTask\MiTask\bin\Debug\net6.0\MiTask.runtimeconfig.json
+C:\Users\Administrador\Source\Repos\MiTask\MiTask\bin\Debug\net6.0\MiTask.dll
+C:\Users\Administrador\Source\Repos\MiTask\MiTask\bin\Debug\net6.0\MiTask.pdb
+C:\Users\Administrador\Source\Repos\MiTask\MiTask\obj\Debug\net6.0\MiTask.csproj.AssemblyReference.cache
+C:\Users\Administrador\Source\Repos\MiTask\MiTask\obj\Debug\net6.0\MiTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Source\Repos\MiTask\MiTask\obj\Debug\net6.0\MiTask.AssemblyInfoInputs.cache
+C:\Users\Administrador\Source\Repos\MiTask\MiTask\obj\Debug\net6.0\MiTask.AssemblyInfo.cs
+C:\Users\Administrador\Source\Repos\MiTask\MiTask\obj\Debug\net6.0\MiTask.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Source\Repos\MiTask\MiTask\obj\Debug\net6.0\MiTask.dll
+C:\Users\Administrador\Source\Repos\MiTask\MiTask\obj\Debug\net6.0\refint\MiTask.dll
+C:\Users\Administrador\Source\Repos\MiTask\MiTask\obj\Debug\net6.0\MiTask.pdb
+C:\Users\Administrador\Source\Repos\MiTask\MiTask\obj\Debug\net6.0\MiTask.genruntimeconfig.cache
+C:\Users\Administrador\Source\Repos\MiTask\MiTask\obj\Debug\net6.0\ref\MiTask.dll
